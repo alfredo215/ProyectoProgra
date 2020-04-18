@@ -1,0 +1,32 @@
+h1{
+	background-color: black;
+	color: white;
+	font-family: arial;
+	font-size:70px; 
+}
+p{
+
+	white-space: normal;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: justify;
+	font-family: arial;
+}
+li{
+	white-space: normal;
+	margin-left: 150px;
+	margin-right: 150px;
+		font-family: arial;
+}
+h2,h3,h4{
+
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: arial;
+}
+
+body{
+	background-color: rgb( 0,250,450);
+}
